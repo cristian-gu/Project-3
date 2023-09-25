@@ -1,0 +1,155 @@
+year,sector,weight
+2010,Communication Services,0.32
+2010,Consumer Discretionary,0.06
+2010,Consumer Staples,0.08
+2010,Energy,0.07
+2010,Financials,0.12
+2010,Health Care,0.08
+2010,Industrials,0.08
+2010,Information Technology,0.12
+2010,Materials,0.02
+2010,Real Estate,0.02
+2010,Utilities,0.02
+2011,Communication Services,0.33
+2011,Consumer Discretionary,0.06
+2011,Consumer Staples,0.09
+2011,Energy,0.07
+2011,Financials,0.1
+2011,Health Care,0.08
+2011,Industrials,0.07
+2011,Information Technology,0.13
+2011,Materials,0.02
+2011,Real Estate,0.02
+2011,Utilities,0.03
+2012,Communication Services,0.33
+2012,Consumer Discretionary,0.06
+2012,Consumer Staples,0.08
+2012,Energy,0.07
+2012,Financials,0.11
+2012,Health Care,0.08
+2012,Industrials,0.07
+2012,Information Technology,0.14
+2012,Materials,0.02
+2012,Real Estate,0.02
+2012,Utilities,0.02
+2013,Communication Services,0.38
+2013,Consumer Discretionary,0.06
+2013,Consumer Staples,0.07
+2013,Energy,0.06
+2013,Financials,0.11
+2013,Health Care,0.09
+2013,Industrials,0.07
+2013,Information Technology,0.11
+2013,Materials,0.02
+2013,Real Estate,0.02
+2013,Utilities,0.02
+2014,Communication Services,0.1
+2014,Consumer Discretionary,0.09
+2014,Consumer Staples,0.1
+2014,Energy,0.07
+2014,Financials,0.16
+2014,Health Care,0.14
+2014,Industrials,0.1
+2014,Information Technology,0.16
+2014,Materials,0.02
+2014,Real Estate,0.03
+2014,Utilities,0.03
+2015,Communication Services,0.13
+2015,Consumer Discretionary,0.1
+2015,Consumer Staples,0.1
+2015,Energy,0.06
+2015,Financials,0.14
+2015,Health Care,0.14
+2015,Industrials,0.09
+2015,Information Technology,0.16
+2015,Materials,0.02
+2015,Real Estate,0.03
+2015,Utilities,0.03
+2016,Communication Services,0.13
+2016,Consumer Discretionary,0.09
+2016,Consumer Staples,0.1
+2016,Energy,0.06
+2016,Financials,0.15
+2016,Health Care,0.12
+2016,Industrials,0.1
+2016,Information Technology,0.17
+2016,Materials,0.02
+2016,Real Estate,0.03
+2016,Utilities,0.03
+2017,Communication Services,0.13
+2017,Consumer Discretionary,0.1
+2017,Consumer Staples,0.09
+2017,Energy,0.05
+2017,Financials,0.15
+2017,Health Care,0.12
+2017,Industrials,0.09
+2017,Information Technology,0.19
+2017,Materials,0.02
+2017,Real Estate,0.03
+2017,Utilities,0.03
+2018,Communication Services,0.13
+2018,Consumer Discretionary,0.1
+2018,Consumer Staples,0.08
+2018,Energy,0.04
+2018,Financials,0.13
+2018,Health Care,0.14
+2018,Industrials,0.08
+2018,Information Technology,0.22
+2018,Materials,0.02
+2018,Real Estate,0.03
+2018,Utilities,0.03
+2019,Communication Services,0.14
+2019,Consumer Discretionary,0.13
+2019,Consumer Staples,0.08
+2019,Energy,0.04
+2019,Financials,0.13
+2019,Health Care,0.13
+2019,Industrials,0.08
+2019,Information Technology,0.23
+2019,Materials,0.02
+2019,Real Estate,0.03
+2019,Utilities,0.03
+2020,Communication Services,0.14
+2020,Consumer Discretionary,0.13
+2020,Consumer Staples,0.07
+2020,Energy,0.02
+2020,Financials,0.1
+2020,Health Care,0.12
+2020,Industrials,0.08
+2020,Information Technology,0.26
+2020,Materials,0.02
+2020,Real Estate,0.02
+2020,Utilities,0.02
+2021,Communication Services,0.15
+2021,Consumer Discretionary,0.13
+2021,Consumer Staples,0.06
+2021,Energy,0.03
+2021,Financials,0.11
+2021,Health Care,0.13
+2021,Industrials,0.07
+2021,Information Technology,0.25
+2021,Materials,0.02
+2021,Real Estate,0.03
+2021,Utilities,0.02
+2022,Communication Services,0.08
+2022,Consumer Discretionary,0.09
+2022,Consumer Staples,0.08
+2022,Energy,0.05
+2022,Financials,0.14
+2022,Health Care,0.15
+2022,Industrials,0.09
+2022,Information Technology,0.23
+2022,Materials,0.03
+2022,Real Estate,0.03
+2022,Utilities,0.03
+2023,Communication Services,0.08
+2023,Consumer Discretionary,0.09
+2023,Consumer Staples,0.08
+2023,Energy,0.05
+2023,Financials,0.14
+2023,Health Care,0.15
+2023,Industrials,0.09
+2023,Information Technology,0.23
+2023,Materials,0.03
+2023,Real Estate,0.03
+2023,Utilities,0.03

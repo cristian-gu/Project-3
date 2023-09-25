@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="DataDashboard">
+    <meta name="author" content="Cristian Guerrero">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Real Estate Visualizations</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="title header 1">
+                <h2>Real Estate Analysis (2010 - 2023)</h2>
+                <p>Ineractive charts to display trends of market variability</p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1">
+                <div class="selector-1">
+                    <h5>Year</h5>
+                    <select id="sel-Dataset_etf" onchange="opch(this.value)"></select>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div id="etf-weighted-chart"></div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1">
+                <div class="selector-2">
+                    <h5>State</h5>
+                    <select id="sel-Dataset_mort" onchange=""></select>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div id="days-late-chart"></div>
+            </div>
+        </div>
+
+        <div class="visualization">
+            <div id="barChart"></div>
+            <div id="linePlot"></div> 
+        </div>
+
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+        <script src="./static/js/main.js"></script>
+
+    </div>
+</body>
+</html>
