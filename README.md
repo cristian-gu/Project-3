@@ -1,7 +1,7 @@
 # Project-3
-Project 3 - 
+Project 3 - Real Estate Evaluation
 
-Thesis: Home prices over the past three years have increased astronomically than in the last decade.
+Thesis: Home prices have increased astronomically than in the last decade.
 
 What is the reason for the recent surge in prices?
 
@@ -57,3 +57,18 @@ Visualizations to include:
     - Houses through privy show both historical data and current home prices
     - not every house will be sold in the same year, but can group results between specific time frames (the group results will be categorized from [2010 - 2019] and [2020 - 2023])
     Data required: can obtain metrics through Privy    
+
+Resources:
+- https://nbisweden.github.io/module-organising-data-dm-practices/105-tabular-data/index.html
+- https://www.geeksforgeeks.org/returning-distinct-rows-in-sqlalchemy-with-sqlite/
+- https://www.geeksforgeeks.org/python-convert-a-list-of-tuples-into-dictionary/
+- https://bobbyhadz.com/blog/python-no-module-named-flask-cors
+- https://medium.com/javarevisited/connecting-flask-with-node-js-7b9d823ca923
+- https://www.reddit.com/r/flask/comments/133yz6u/flask_app_with_javascript_front_end/
+- https://www.educative.io/answers/how-to-serve-a-static-html-file-in-nodejs
+- https://blog.logrocket.com/build-interactive-charts-flask-d3js/
+- https://flask-cors.readthedocs.io/en/latest/
+- https://www.youtube.com/watch?v=vT8ir-GHP_U
+- https://www.rexegg.com/regex-quickstart.html
+
+

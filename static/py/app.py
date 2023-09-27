@@ -7,12 +7,12 @@ from sqlalchemy.orm import sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
 import pandas as pd
 import numpy as np
-from flask import Flask, jsonify, render_template
+from flask import Flask, jsonify
 from flask_cors import CORS
 import psycopg2
 from db_url import url
 
-engine = create_engine(url, isolation_level = "REPEATABLE READ")
+engine = create_engine(url)
 Base = declarative_base()
 
 ### Database Classes
