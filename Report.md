@@ -42,10 +42,24 @@ To start the website application, sequence is as follows:
 
 _Analysis_
 
-Introduction:
-
 Looking at avergage home price data, since 2010 that price was $275,000 compared to 2022 where that home price has reached 
 $553,000. In order to assess the observation as to why the average home price has doubled over the past decade, a couple factors that will be analyzed will be the composition of the real estate sector in the S&P 500 and mortgage 30-90 days late. Although not a complete answer or reason as to why the event is occurring, it is more direct lens as to how it may enable our economy to follow this direction. Real estate sector composition was chosen to show the market's influence on valuing real estate opportunities. 30-90 days late for mortgage payments would be used as a metric to visualize conusmer confidence and optimisim in the economic conditions. 
+
+When looking at the growth of REIT composition in the S&P 500, we see that it grows during the last decade. More specifically, from 2010-2013, the composition stays stagnant at around 2% then increasing a percentage point in 2014. The scale of this magnitude we see that the S&P 500 also grows substantially in 2013 with an annual peak change of 29% and continuously grows until slowing down in 2020 presenting a rate of 16.26%. Based on an article by Holden Walter-Warner, in the past decade showed that regional banks invested in real estate opportunities favorably. These investors include partly mortgage REITs which are also backed by the banks. So as a result, by investing in Real Estate opportunities, this showed to have some impact on the growth of the stock market as well.
+
+![image](https://github.com/cristian-gu/Project-3/assets/134232784/7ca08435-7272-45a3-8736-31da61b2bd0e)
+Figure 1. Shows the Real Estate sector to reach composition levels of 2% in 2011
+
+![image](https://github.com/cristian-gu/Project-3/assets/134232784/28638136-46ca-4a2b-b6b1-b1495cb2ac36)
+Figure 2. Shows the Real Estate sector to increase percentage rate of 3% in 2014
+
+When analyzing rates of 30-90 days late mortgage payments, we see that in all counties show a downward trend of late payments. Firstly, what mortage late payments imply includes credit risk, loan default risk, accumulation of interest and late fees, and foreclosure risk. A downward trend in mortage days late could provide evidence of a recovering and prospering economy as consumer confidence increasing. Some byproducts of this however could lead to borrowers seeking further opportunity as confidence grows.
+
+![image](https://github.com/cristian-gu/Project-3/assets/134232784/6f9a55f8-f808-48b9-a5e9-7d547ac90242)
+Figure 3. Shows the rates of mortgage days late in CA yoy
+
+
+
 
 
 
