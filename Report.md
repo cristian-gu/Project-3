@@ -28,9 +28,30 @@ Firstly for the Mortgage-days-late data source, methods of array transposing and
 
 Next, using python tools such as SQLAlchemy and Flask, will enable us to create a high powered api that will create a frictionless connection to the Javascript application. Flask will help export the data through a client machine localhost server to run in conjunction with the html file. In order for data to be processed through the application file (app.py) however, fields in all our datasets will need the correct datatype nomenclature to be casted. Once all fields are able to be read through, then flask will need user defined endpoints to create links to our jsonified array objects to be translated into Javascript. 
 
-Finally, using the flask user-defined endpoints, we can declare the array objects in the javascript application to be loaded into our custom data visulaization charts. This will conlude the extract, transform, and loading process of our datasources.
+Finally, using the flask user-defined endpoints, we can declare the array objects in the javascript application to be loaded into our custom data visulaization charts. Some major things learned, when loading in data mainly only concerned our flask api development and javascript application architecture. At the API stage, when developing classes for each data source, each table needs a unique identifier to help with aggregating and selecting with SQLAlchemy. At the website development stage, structuring d3 datapromises worked more fluently by intializing each dataset seperately as opposed to concurrently. Having each stage work independent of each other removed the issue of the second chart not populating in the website. This will conlude the extract, transform, and loading process of our datasources. 
 
-_Data Visualizations_
+_Application_
+
+Creating the Javascript application would require the use of d3.js language. Following, using property selection, we can push a set of chart layouts for each selection therefore displaying all the graphs for the distinct datasets.
+
+To start the website application, sequence is as follows:
+
+- Run "app.py"
+    - The "url" variable will need to be replaced with the Client's own local host database key
+- Open "index.html"
+
+_Analysis_
+
+Introduction:
+
+Looking at avergage home price data, since 2010 that price was $275,000 compared to 2022 where that home price has reached 
+$553,000. In order to assess the observation as to why the average home price has doubled over the past decade, a couple factors that will be analyzed will be the composition of the real estate sector in the S&P 500 and mortgage 30-90 days late. Although not a complete answer or reason as to why the event is occurring, it is more direct lens as to how it may enable our economy to follow this direction. Real estate sector composition was chosen to show the market's influence on valuing real estate opportunities. 30-90 days late for mortgage payments would be used as a metric to visualize conusmer confidence and optimisim in the economic conditions. 
+
+
+
+
+
+
 
 
 
