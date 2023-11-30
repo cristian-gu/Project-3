@@ -25,9 +25,11 @@ Visualizations included:
     - Data used: Mortgage days late since 2010 (https://www.consumerfinance.gov/data-research/mortgage-performance-trends/mortgages-30-89-days-delinquent/)
 
 ## Getting Started
-The ETL process will include utilizing applications such as pgAdmin4 to utilize PostgreSQL and create our database. Then pushing
 
-- 
+
+## Installing
+Instructions on how to start the interactive charts displayed in "Application" section of Report.md.
+
 Resources:
 - https://nbisweden.github.io/module-organising-data-dm-practices/105-tabular-data/index.html
 - https://www.geeksforgeeks.org/returning-distinct-rows-in-sqlalchemy-with-sqlite/
