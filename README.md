@@ -25,7 +25,7 @@ Visualizations included:
     - Data used: Mortgage days late since 2010 (https://www.consumerfinance.gov/data-research/mortgage-performance-trends/mortgages-30-89-days-delinquent/)
 
 ## Getting Started
-
+Summary of tools and applications used for project described in "Application" and 
 
 ## Installing
 Instructions on how to start the interactive charts displayed in "Application" section of Report.md.
