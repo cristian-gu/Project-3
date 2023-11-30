@@ -30,7 +30,7 @@ Summary of tools and applications used for project described in "ETL" and "Appli
 ## Installing
 Instructions on how to start the interactive charts displayed in "Application" section of Report.md.
 
-Resources:
+## Resources
 - https://nbisweden.github.io/module-organising-data-dm-practices/105-tabular-data/index.html
 - https://www.geeksforgeeks.org/returning-distinct-rows-in-sqlalchemy-with-sqlite/
 - https://www.geeksforgeeks.org/python-convert-a-list-of-tuples-into-dictionary/
