@@ -1,5 +1,5 @@
 # Real Estate Evaluation
-Project 3
+Project utilizing the development of ETL methods & web application design to analyze indicators of real estate market shifts.
 
 ## Table of Contents
 - Description
